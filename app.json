@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ai-chat-app",
+    "slug": "ai-chat-app",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
